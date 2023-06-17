@@ -140,7 +140,7 @@ export default function Home() {
                             </HStack>
                           </ListItem >
                           {/* You can also use cust
-                    om icons from react-icons */}
+                            om icons from react-icons */}
                           <ListItem mb={'10px'}>
                             {/* <ListIcon as={MdSettings} color='green.500' /> */}
                             <HStack justifyContent={'space-between'}>
